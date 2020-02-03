@@ -1,0 +1,50 @@
+[06-Feb-2019 16:35:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[06-Feb-2019 16:37:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[06-Feb-2019 16:37:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[06-Feb-2019 16:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[06-Feb-2019 16:40:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 18:00:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 18:00:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 18:00:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 18:00:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 19:11:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 21:26:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 21:51:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 22:15:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/index.php:8) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[07-Feb-2019 22:22:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/noticias.php:6) in /home/biinyucom/public_html/Arrendamos-JV/arrendamos-noticias/admin/seguridad.php on line 8
+[02-May-2019 16:32:29 UTC] PHP Notice:  Undefined index: autentica in /home/i0ayzyaamvyi/public_html/icm-noticias/admin/seguridad.php on line 5
+[19-Nov-2019 18:12:02 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/updateMenciones.php on line 13
+[20-Nov-2019 10:02:14 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/updateMenciones.php on line 13
+[20-Nov-2019 10:08:07 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/guardar.php on line 31
+[20-Nov-2019 10:09:57 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/guardar.php on line 17
+[20-Nov-2019 10:09:57 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/guardar.php on line 31
+[20-Nov-2019 10:10:19 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/updateMenciones.php on line 13
+[20-Nov-2019 10:18:26 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/guardar.php on line 31
+[20-Nov-2019 10:20:05 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/update2.php on line 14
+[20-Nov-2019 10:20:41 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/guardar.php on line 17
+[20-Nov-2019 10:20:41 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/guardar.php on line 31
+[20-Nov-2019 10:26:39 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/updateMenciones.php on line 13
+[20-Nov-2019 10:27:00 America/Chicago] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/public_html/insep/insep-noticias/admin/update2.php on line 14
+[27-Dec-2019 01:37:54 UTC] PHP Notice:  Undefined index: autentica in /home/biinyuga/insep.com.co/insep-noticias/admin/seguridad.php on line 5
+[27-Dec-2019 01:37:54 UTC] PHP Notice:  Undefined index: autentica in /home/biinyuga/insep.com.co/insep-noticias/admin/seguridad.php on line 5
+[27-Dec-2019 01:37:56 UTC] PHP Notice:  Undefined index: autentica in /home/biinyuga/insep.com.co/insep-noticias/admin/seguridad.php on line 5
+[27-Dec-2019 01:37:56 UTC] PHP Notice:  Undefined index: autentica in /home/biinyuga/insep.com.co/insep-noticias/admin/seguridad.php on line 5
+[31-Jan-2020 20:20:46 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/update2.php on line 14
+[31-Jan-2020 20:23:22 UTC] PHP Notice:  Undefined index: video in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 27
+[31-Jan-2020 20:23:22 UTC] PHP Notice:  Undefined index: video in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 28
+[31-Jan-2020 20:23:22 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 31
+[31-Jan-2020 20:26:37 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/updateMenciones.php on line 13
+[31-Jan-2020 20:51:31 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/update2.php on line 14
+[31-Jan-2020 20:53:44 UTC] PHP Notice:  Undefined index: video in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 27
+[31-Jan-2020 20:53:44 UTC] PHP Notice:  Undefined index: video in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 28
+[31-Jan-2020 20:53:44 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 31
+[31-Jan-2020 21:33:09 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/update2.php on line 14
+[31-Jan-2020 21:33:28 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/update2.php on line 14
+[31-Jan-2020 21:44:08 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/update2.php on line 14
+[31-Jan-2020 22:28:32 UTC] PHP Notice:  Undefined index: video in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 27
+[31-Jan-2020 22:28:32 UTC] PHP Notice:  Undefined index: video in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 28
+[31-Jan-2020 22:28:32 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/guardar.php on line 31
+[31-Jan-2020 22:39:57 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/update2.php on line 14
+[31-Jan-2020 22:40:27 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/update2.php on line 14
+[31-Jan-2020 22:44:52 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/update2.php on line 14
+[31-Jan-2020 23:07:37 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/biinyuga/insep.com.co/insep-noticias/admin/updateMenciones.php on line 13
