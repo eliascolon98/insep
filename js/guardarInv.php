@@ -183,7 +183,7 @@ if (isset($_POST['email'])) {
 $ruta = $data["ruta"];
 
 $email_from = $email;
-$email_to = "Jefehseq@insep.com.co, $email";
+$email_to = "cartera@insep.com.co, cartera@insep.com.co, $email";
 
 
 $message = '<html>'.
