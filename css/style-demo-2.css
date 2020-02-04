@@ -181,7 +181,9 @@ p {
 }
 
 .img-servs {
-	width: 58%;
+	width: 100%;
+    height: 65px;
+}
 }
 
 .inv {
@@ -1018,11 +1020,12 @@ nav.navbar-dark ul.nav li.dropdown.on>a {
 
 .tittle {
 	position: absolute;
-	bottom: 78%;
-	width: 90%;
+	bottom: 50%;
 	text-align: center;
 	color: #fff;
 	text-transform: uppercase;
+	width: 96%;
+
 }
 
 .titulo-politicas {
@@ -1036,16 +1039,19 @@ nav.navbar-dark ul.nav li.dropdown.on>a {
 }
 
 .t-bienestar {
-	bottom: 56%;
-	width: 57%;
-	font-size: 21px;
+    bottom: 54%;
+    font-size: 22px;
+    width: 85%;
+    margin-left: 4%;
+}
 }
 
 .t-bienestar-2 {
-	bottom: 46%;
-	font-size: 19px;
-	width: 47%;
-	margin-left: 4%;
+    bottom: 51%;
+    font-size: 22px;
+    width: 85%;
+    margin-left: 4%;
+}
 }
 
 .cont-politicas {
@@ -1115,19 +1121,22 @@ p {
 .serg {
 	position: absolute;
 	bottom: 60%;
-	width: 61%;
+	width: 100%;
 	text-align: center;
 	color: fff;
 	text-transform: uppercase;
 }
 
 .img-serg {
-	width: 66%;
+	width: 100%;
+    height: 65px;
+
 }
 
 .img-quienes {
-	width: 58%;
-	padding-bottom: 12px;
+    width: 100%;
+    padding-bottom: 12px;
+    height: 65px;
 }
 
 .side {
@@ -1961,10 +1970,6 @@ footer .footer-widget.widget_recent_entries .media {
 		padding-bottom: 5%;
 	}
 
-	.t-servicios {
-		bottom: 76% !important;
-	}
-
 	.cuadro_honor {
 		width: 100%;
 		height: 440px;
@@ -1989,7 +1994,7 @@ footer .footer-widget.widget_recent_entries .media {
 	}
 
 	.img-servs {
-		width: 72% !important;
+		width: 80% !important;
 	}
 
 	.txt-inv-t {
@@ -2010,18 +2015,52 @@ footer .footer-widget.widget_recent_entries .media {
 	}
 
 	.tittle {
-		bottom: 82%;
-		width: 60% !important;
-		font-size: 20px !important;
+		bottom: 79%;
+		width: 82% !important;
+		font-size: 15px !important;
 		text-transform: uppercase;
 	}
-
-	.titulo-quienes {
-		top: -12px;
-		width: 54% !important;
-		font-size: 24px;
+	.t-servicios {
+		bottom: 73% !important;
+		font-size: 20px !important;
+		width: 80% !important;
 	}
-
+	.titulo-quienes {
+		top: -4px;
+		width: 80% !important;
+		font-size: 20px !important;
+	}
+	.t-bienestar{
+		bottom:72%;
+		width: 67% !important;
+		font-size: 16px !important;
+		text-transform: uppercase;
+	}
+	.t-bienestar-2{
+		bottom: 60%;
+		width: 72% !important;
+		font-size: 15px !important;
+		text-transform: uppercase;
+	}
+	.cont-politicas img {
+		width: 80%;
+	}
+	.img-quienes {
+		width: 80%;
+		padding-bottom: 12px;
+		height: 65px;
+	}
+	.titulo-politicas {
+		position: absolute;
+		top: 223%;
+		text-align: center;
+		color: #fff;
+		text-transform: uppercase;
+		bottom: 0 !important;
+		height: 65px;
+		font-size: 22px !important;
+		width: 80% !important;
+	}
 	.tittle-index-2 {
 		bottom: 83% !important;
 		width: 80% !important;
@@ -2033,7 +2072,13 @@ footer .footer-widget.widget_recent_entries .media {
 		font-size: 16px !important;
 		width: 80% !important;
 	}
-
+	.tittle-index {
+		bottom: 77%;
+		width: 70% !important;
+		font-size: 15px !important;
+		text-transform: uppercase;
+		margin-left: 24px;
+	}
 	.panel-title i {
 		right: 1em !important;
 	}
@@ -2060,7 +2105,6 @@ footer .footer-widget.widget_recent_entries .media {
 	p {
 		font-size: 16px;
 	}
-
 	.fullWidthTwelve p {
 		color: #666;
 		font-size: 16px;
@@ -2124,13 +2168,13 @@ footer .footer-widget.widget_recent_entries .media {
 	}
 
 	.empleados-2>img:first-child {
-		width: 78% !important;
+		width: 80% !important;
 	}
 
 	.row-txt-empleados h4 {
 		width: 100%;
 		font-weight: 300;
-		font-size: 20px;
+		font-size: 17px;
 	}
 
 	.owl-next span {
@@ -2220,9 +2264,10 @@ footer .footer-widget.widget_recent_entries .media {
 	}
 
 	.tittle-index-2 {
-		bottom: 85% !important;
-		width: 80% !important;
-		font-size: 13px !important;
+		bottom: 84% !important;
+		width: 83% !important;
+		font-size: 15px !important;
+		margin-left: 25px;
 	}
 
 	.tittle-index-3 {
